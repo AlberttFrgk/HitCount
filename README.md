@@ -46,7 +46,7 @@ Inspired by **[2ky](https://github.com/2ky1e)**'s mania hit count overlay.
 4. **Configure** settings to your preference (see below)
 5. **Add** the overlay URL as a Browser Source in OBS, or use it as an in-game overlay
 
-> **Tip:** Set the browser source to **240×430** with a transparent background for best results.
+> **Tip:** Set the browser source to **240×400** with a transparent background for best results.
 
 ---
 
